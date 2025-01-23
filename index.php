@@ -3,7 +3,7 @@
 
 <div class="container">
     <div class="mt-4 p-2 bg-secondary text-white rounded" style="width: 60%;">
-    <p class="text-success">.text-success</p>
+    <p class="text-success">James Tolen A01364247</p>
         <h3>Check your zodiac.</h3>
         <p>
             Enter your birth year to know your Zodiac sign!
